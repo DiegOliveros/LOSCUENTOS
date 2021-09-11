@@ -1,2 +1,2 @@
 # nombredelrepo
-Describe el repo 
+Describe el repo de la clase de hoy  
